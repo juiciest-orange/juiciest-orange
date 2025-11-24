@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Python and working on data analysis and visualization projects
+
 <!--
 **juiciest-orange/juiciest-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
